@@ -1,2 +1,2 @@
-# FirstGitRepo
-First time creating a Git Repository
+# Primero
+Trying to create a Git Repository
